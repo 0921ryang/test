@@ -1,0 +1,3 @@
+[submodule "shit"]
+	path = shit
+	url = git@github.com:0921ryang/test1.git
